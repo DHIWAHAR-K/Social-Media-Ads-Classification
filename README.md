@@ -7,7 +7,6 @@ This project focuses on classifying social media ads using machine learning tech
 ## Project Structure
 
 - `social_media_ads_classification.ipynb`: Jupyter Notebook containing the code for data analysis, preprocessing, model training, and evaluation.
-- `ads_data.csv`: CSV file containing the dataset with features related to social media ads.
 - `README.md`: This file providing an overview and instructions for the project.
 
 ## Dependencies
